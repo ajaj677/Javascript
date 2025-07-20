@@ -22,4 +22,30 @@ const myFuction = function(){       //treted as variable
     console.log("HELLO WORLD");
 }
 
-console.log(typeof myFuction);
+// console.log(typeof myFuction);
+
+/*################################################################################
+
+memory in js:
+stack (primitive), Heap (non- Primitive) reference
+*/
+
+let myYoutubeName = "Ajaj"
+
+let anotherName = myYoutubeName
+anotherName = "armaan"
+
+console.log(anotherName);
+
+let userOne = {
+    email: "xyz@google.com",
+    age: 45
+}
+
+let userTwo = userOne
+userTwo.email = "xyz@outlook.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
+
+

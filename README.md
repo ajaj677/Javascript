@@ -1,4 +1,5 @@
 # Javascript
+## [Javascript MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 ## 01 Basics
 ```
 1/ Datatypes

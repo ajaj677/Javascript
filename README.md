@@ -1,5 +1,6 @@
-## Javascript
-```learning Javascript
+# Javascript
+## 01 Basics
+```
 1/ Datatypes
 2/ Conversions operations
 3/ Comparisons
